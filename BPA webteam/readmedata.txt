@@ -1,0 +1,1 @@
+Github doesn't show the tensorboard beacause I ran it off of my localhost and the logdir cannot be referenced from github. So I took screen shots of some of the models.
