@@ -1,0 +1,1 @@
+This intro to RNNs is quite barebones because the analysis on the data is a completely different beast and will be included in a separate file. The best models with 90%+ accuracy almost use this complex analysis.
